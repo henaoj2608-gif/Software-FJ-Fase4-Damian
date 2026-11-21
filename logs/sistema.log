@@ -1,1 +1,24 @@
 Registro de eventos y errores del sistema Software FJ.
+2026-11-19 21:33:56,587 - INFO - Inicio del sistema Software FJ
+2026-11-19 21:36:17,031 - INFO - Cliente registrado: 12456
+2026-11-19 21:38:06,927 - INFO - Cliente registrado: 12345
+2026-11-19 21:42:57,708 - INFO - Inicio del sistema Software FJ
+2026-11-19 21:43:40,454 - ERROR - El correo electronico no tiene un formato valido.
+2026-11-19 21:44:25,510 - INFO - Cliente registrado: 105151
+2026-11-19 21:47:02,584 - INFO - Reserva creada: R001
+2026-11-19 21:47:47,197 - ERROR - could not convert string to float: '10%'
+2026-11-19 21:48:38,360 - ERROR - could not convert string to float: '10%'
+2026-11-19 21:49:31,937 - INFO - Reserva confirmada: R001
+2026-11-19 21:51:55,527 - ERROR - No se puede cancelar una reserva confirmada.
+2026-11-19 21:56:22,060 - INFO - Cierre del sistema Software FJ
+2026-11-19 22:10:26,434 - INFO - Inicio del sistema Software FJ
+2026-11-19 22:11:56,075 - INFO - Cierre del sistema Software FJ
+2026-11-19 22:17:50,716 - INFO - Interfaz grafica iniciada
+2026-11-20 17:16:55,284 - ERROR - El correo electronico no tiene un formato valido.
+2026-11-20 17:17:07,178 - INFO - Cliente registrado desde interfaz: 1215151
+2026-11-20 17:17:45,017 - INFO - Reserva creada desde interfaz: R001
+2026-11-20 17:18:13,053 - INFO - Reserva creada desde interfaz: R002
+2026-11-20 17:19:10,109 - INFO - Reserva confirmada desde interfaz: R001
+2026-11-20 17:19:40,908 - INFO - Reserva cancelada desde interfaz: R002
+2026-11-20 17:50:49,615 - INFO - Cierre del sistema Software FJ
+2026-11-20 19:02:17,090 - INFO - Inicio del sistema Software FJ
